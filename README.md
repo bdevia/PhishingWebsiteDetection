@@ -1,3 +1,2 @@
-# PhishingWebsiteDetection
-Extensión de navegador para detectar sitios web maliciosos.
-
+# Phishing Website Detection
+Extensión de navegador para detectar sitios web maliciosos
